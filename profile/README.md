@@ -1,6 +1,8 @@
-Open Engineering Textures
+# Open Engineering Textures
 
 Open Engineering Textures is the definitions repository for textures that decorate Open Engineering Models.
+
+![Open Engineering Textures hero-banner.png](../assets/hero-banner.png)
 
 Textures provide the visual layer applied to the surfaces of 3D models through UV coordinates, enabling models to carry details that are better represented as 2D artwork than as 3D geometry.
 
